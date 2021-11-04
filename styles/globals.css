@@ -1,16 +1,20 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+/* @font-face {
+  font-family: "Dinamit Extralight";
+  src: url("/public/fonts/Dinamit_Extralight.woff2") format("woff2");
 }
-
-a {
-  color: inherit;
-  text-decoration: none;
+@font-face {
+  font-family: "Dinamit Light";
+  src: url("/public/fonts/Dinamit_Light.woff2") format("woff2");
 }
-
-* {
-  box-sizing: border-box;
+@font-face {
+  font-family: "Dinamit Medium";
+  src: url("/public/fonts/Dinamit_Medium.woff2") format("woff2");
 }
+@font-face {
+  font-family: "Dinamit Regular";
+  src: url("/public/fonts/Dinamit_Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Dinamit Semibold";
+  src: url("/public/fonts/Dinamit_Semibold.woff2") format("woff2");
+} */
